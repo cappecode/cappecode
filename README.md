@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cappecode
-- 👀 I’m interested in python and design
+- 👀 I’m interested in python and game developing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects (all kind of projects. Ex. games, social media, etc)
 - 📫 Please contact me on carreparres@gmail.com
